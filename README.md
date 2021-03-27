@@ -1,2 +1,3 @@
 # AIforTrading
-udacity
+
+Nano degress course in udacity
